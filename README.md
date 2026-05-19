@@ -1,4 +1,4 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+[<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                  NEEL — GITHUB PROFILE README                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
@@ -302,3 +302,4 @@ I built a full cleaning-service marketplace with Django using AI-assisted develo
 *"Code → Think → Build → Repeat ☕ — Kem cho from Vadodara! 🇮🇳"*
 
 </div>
+](https://github.com/nds586/nds586/blob/main/README.md)
