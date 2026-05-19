@@ -119,17 +119,29 @@ width="520" />
 
 <br/><br/>
 
-<img 
-src="https://github-readme-stats.vercel.app/api?username=Neel58&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" 
-height="180" />
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neel58&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" 
-height="180" />
 
 </div>
 
 ---
+
+<!-- 🐍 Contribution Snake -->
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nds586/nds586/output/github-contribution-grid-snake-dark.svg" />
+
+<source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/nds586/nds586/output/github-contribution-grid-snake.svg" />
+
+<img
+ alt="github contribution snake"
+ src="https://raw.githubusercontent.com/nds586/nds586/output/github-contribution-grid-snake-dark.svg" /> </picture>
+
+</div>
+
 
 <!-- ACTIVITY GRAPH -->
 
